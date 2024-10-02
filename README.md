@@ -24,7 +24,7 @@ Example: FRONTEND_URL2=https://your-staging-url.com
 
 PORT:
 The port number on which the frontend application will run.
-Example: PORT=3000
+Example: PORT=8080
 
 Backend Environment Variables (.env.example):
 REACT_APP_CLOUD_NAME_CLOUDINARY:
