@@ -1,6 +1,5 @@
 ![Alt text](https://res.cloudinary.com/dklv0c2br/image/upload/v1724438577/zamzamshop_ellk01.png)
 
-
 Here's a good description you can use for your GitHub repository that includes both the frontend and backend .env.example files, detailing the necessary environment variables:
 
 Environment Variables
